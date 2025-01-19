@@ -1,5 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
 img {
-  vertical-align: middle; /* 이미지 정렬에 따른 여백 제거 */
+  display: block;
   margin: 0;
   padding: 0;
 }
