@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
+<center>
 <div>
 <img width="100%" src="https://github.com/user-attachments/assets/e4b3ae37-c9fc-4161-811b-aa41a22758e4" alt="">
 <img width="100%" src="https://github.com/user-attachments/assets/fdcef68c-8a85-4652-a62e-f91750bd5afc" alt="">
@@ -18,5 +11,4 @@
 <img width="100%" src="https://github.com/user-attachments/assets/6a43d432-dd52-4dec-8d98-13059e5771c5" alt="">
 <img width="100%" src="https://github.com/user-attachments/assets/ad292d06-dec8-41b9-9c99-6eb6535c901f" alt="">
 </div>
-</body>
-</html>
+</center>
